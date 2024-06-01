@@ -1,7 +1,14 @@
 body {
-    background-color: lightgreen;
+    background-color: black;
+    color: white;
+    font-family: monospace;
 }
 
-p {
-    color: red;
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
